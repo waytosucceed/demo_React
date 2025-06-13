@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//waytosucceed.github.io/demo_React/static/css/main.a1bbc8f8.css",
-    "main.js": "//waytosucceed.github.io/demo_React/static/js/main.5f752871.js",
+    "main.js": "//waytosucceed.github.io/demo_React/static/js/main.a6eee94c.js",
     "static/js/453.e982b6e1.chunk.js": "//waytosucceed.github.io/demo_React/static/js/453.e982b6e1.chunk.js",
     "static/media/last.jpg": "//waytosucceed.github.io/demo_React/static/media/last.4593fcc1ab6f2090ec7e.jpg",
     "static/media/background.png": "//waytosucceed.github.io/demo_React/static/media/background.d2530dbf9105b583c6f0.png",
@@ -10,11 +10,11 @@
     "static/media/header.png": "//waytosucceed.github.io/demo_React/static/media/header.f32f4c6487bcbadd0d2b.png",
     "index.html": "//waytosucceed.github.io/demo_React/index.html",
     "main.a1bbc8f8.css.map": "//waytosucceed.github.io/demo_React/static/css/main.a1bbc8f8.css.map",
-    "main.5f752871.js.map": "//waytosucceed.github.io/demo_React/static/js/main.5f752871.js.map",
+    "main.a6eee94c.js.map": "//waytosucceed.github.io/demo_React/static/js/main.a6eee94c.js.map",
     "453.e982b6e1.chunk.js.map": "//waytosucceed.github.io/demo_React/static/js/453.e982b6e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1bbc8f8.css",
-    "static/js/main.5f752871.js"
+    "static/js/main.a6eee94c.js"
   ]
 }
