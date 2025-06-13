@@ -19,9 +19,9 @@
 
 import React, { useState } from 'react'
 import Data from '../../data/Data_A1.json'
-import lastImg from './../assets/last.jpg'
-import backgroundImg from './../assets/background.png'
-import './Activity.css'
+import lastImg from './../../assets/last.jpg'
+import backgroundImg from './../../assets/background.png'
+import './../Activity.css'
 
 const importAll = r => {
   let images = {}
@@ -31,7 +31,7 @@ const importAll = r => {
   return images
 }
 const allImages = importAll(
-  require.context('./../assets', false, /\.(png|jpe?g|svg)$/)
+  require.context('./../../assets', false, /\.(png|jpe?g|svg)$/)
 )
 
 function Activity () {

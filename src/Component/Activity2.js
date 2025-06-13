@@ -18,7 +18,7 @@
 // // }
 
 import React, { useState } from 'react'
-import Data from '../data/Data.json'
+import Data from '../data/Data_A1.json'
 import lastImg from './../assets/last.jpg'
 import backgroundImg from './../assets/background.png'
 import './Activity.css'
